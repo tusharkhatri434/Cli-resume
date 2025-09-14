@@ -1,0 +1,14 @@
+{
+  "name": "@tushar-khatri-2b4454244/resume",
+  "version": "1.0.0",
+  "description": "My resume as a CLI tool",
+  "bin": {
+    "@tushar-khatri-2b4454244": "bin/index.mjs"
+  },
+  "type": "module",
+  "author": "Tushar Khatri",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
