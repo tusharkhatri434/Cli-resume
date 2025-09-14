@@ -8,7 +8,7 @@
 ## 🚀 Quick Start
 
 ```bash
-npx @tushar-khatri-2b4454244
+npx @tushar-khatri-2b4454244/resume
 ```
 
 ## 📋 About
