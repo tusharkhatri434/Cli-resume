@@ -1,6 +1,6 @@
 {
   "name": "@tushar-khatri-2b4454244/resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My resume as a CLI tool",
   "bin": {
     "@tushar-khatri-2b4454244": "bin/index.mjs"
